@@ -1,0 +1,10 @@
+C:\Users\quanc\source\repos\TEST12\TEST12\bin\Debug\TEST12.exe.config
+C:\Users\quanc\source\repos\TEST12\TEST12\bin\Debug\TEST12.exe
+C:\Users\quanc\source\repos\TEST12\TEST12\bin\Debug\TEST12.pdb
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.csproj.AssemblyReference.cache
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.Properties.Resources.resources
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.csproj.GenerateResource.cache
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.csproj.CoreCompileInputs.cache
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.exe
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.pdb
+C:\Users\quanc\source\repos\TEST12\TEST12\obj\Debug\TEST12.Form1.resources
