@@ -96,6 +96,7 @@ namespace TEST12
 
             var db = new dbTestDataContext(conn);
             Load();
+            Load();
 
         }
     }
