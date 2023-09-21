@@ -63,13 +63,16 @@ namespace TEST12
             var login = (from a in db.tblLogins
                          where a.Id == id select new {
                              USERNAME = a.username,
-                             PASSWORD = a.password
+                             PASSWORD = a.password,
+                             ID = a.Id
                          }).FirstOrDefault();
             txtUname.Text = login.USERNAME;
             txtPass.Text = login.PASSWORD;
-            txtId.Text = login.Id.ToString();
+            txtId.Text = login.ID.ToString();
+           
+            
 
-                }
+        }
 
         private void txtId_TextChanged(object sender, EventArgs e)
         {
@@ -90,6 +93,9 @@ namespace TEST12
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            var db = new dbTestDataContext(conn);
+            Load();
 
         }
     }
